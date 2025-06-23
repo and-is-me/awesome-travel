@@ -1,4 +1,16 @@
 
 
-Here we should collect some data about travel
+Here we collect data about travel // это заметка, где собираются разные 
 
+
+Restaurants, galleries, museums, interesting places 
+
+
+Grades
+g - grade // оценка
+	g9 - точно стоит посетить
+	g0 - очень плохое место, вообще плохие можно сюда и не заносить
+если кто-то поел хорошо и вкусно, а другой не очень это эще не значит, что нужно опускать рейтинг сильно
+
+
+точно стоит посетить
