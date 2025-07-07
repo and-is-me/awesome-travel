@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Россия/Тула.md",
+                "file": "Россия/Санкт-Петербург.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тула"
+              "title": "Санкт-Петербург"
             }
           },
           {
@@ -355,8 +355,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -452,9 +451,12 @@
   },
   "active": "7a77eff7b1c3e5f0",
   "lastOpenFiles": [
-    "Россия/Москва.md",
-    "Россия/Краснодар.md",
     "Россия/Тула.md",
+    "Россия/Самара.md",
+    "Россия/Плёс _ Плес.md",
+    "Россия/Москва.md",
+    "Россия/Санкт-Петербург.md",
+    "Россия/Краснодар.md",
     "README.md",
     "Czech.md",
     "Россия/Калининградска область/_Readme.md",
@@ -476,9 +478,6 @@
     "Грузия/Тбилиси.md",
     "Грузия/Кутаиси.md",
     "Грузия/Батуми.md",
-    "Switzerland.md",
-    "Сноуборд.md",
-    "_Заметки.md",
     "Венгрия",
     "Russia/Красная поляна",
     "_files/russsia/kaliningrade",
