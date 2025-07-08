@@ -1,10 +1,7 @@
 
+Заметки, где собираются разные 
 
-Here we collect data about travel // это заметка, где собираются разные 
-
-
-Restaurants, galleries, museums, interesting places 
-
+Рестораны, галереи, музеи, интересные места и рекомендации.
 
 # Правила
 
